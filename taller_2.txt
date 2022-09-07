@@ -1,0 +1,24 @@
+
+Datos obtenidos:
+
+
+En gastos en el mes con mayor consumo fue OCTUBRE con $16942889 mientras el de menor consumo fue MARZO con $10564879
+
+En ventas el mejor mes fue ABRIL con $35129000 y el peor mes en ventas fue FEBRERO con $27012500
+
+En utilidades el mejor mes fue ABRIL con $22926536 mientras el peor fue ENERO con $10955112
+
+En el año se gasto $162024540, en ventas se obtuvieron $372264600 y en todo el año la utilidad fue de $210240060
+
+El promedio mensual en gastos fue de $13502045, el promedio en ventas fue de $31022050 y un promedio en utilidades de $17520005
+
+La desviación estandar mensaual en gastos fue de $1764255, en ventas $2925308 y en utilidad de $3441999
+
+               ENERO    FEBRERO      MARZO     ABRIL       MAYO      JUNIO      JULIO      AGOSTO   SEPTIEMBRE  OCTUBRE   NOVIEMBRE   DICIEMBRE
+GASTOS       16245388 - 12828273 - 10564879 - 12202464 - 12613112 - 12002297 - 12709600 - 13483899 - 15385074 - 16942889 - 13495265 - 13551400
+VENTAS       27200500 - 27012500 - 30552600 - 35129000 - 28236000 - 31368600 - 34837700 - 27727600 - 30742400 - 34526800 - 30868900 - 34062000
+UTILIDADES   10955112 - 14184227 - 19987721 - 22926536 - 15622888 - 19366303 - 22128100 - 14243701 - 15357326 - 17583911 - 17373635 - 20510600
+
+
+
+Jorge Miguel Hernandez Fabra  - 06/09/2022 - 21:00:33
